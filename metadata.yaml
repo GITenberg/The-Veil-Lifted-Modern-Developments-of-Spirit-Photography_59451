@@ -1,5 +1,5 @@
 _repo: The-Veil-Lifted-Modern-Developments-of-Spirit-Photography_59451
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Taylor, J. Traill
@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '2297'
     url: http://www.gutenberg.org/2009/agents/2297
     wikipedia: https://en.wikipedia.org/wiki/James_Alexander_Robertson
+covers:
+- cover_type: archival
+  image_path: 59451-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '50458'
     url: http://www.gutenberg.org/2009/agents/50458
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59451#The-Veil-Lifted-Modern-Developments-of-Spirit-Photography
 gutenberg_issued: '2019-05-07'
 gutenberg_type: Text
 identifiers:
