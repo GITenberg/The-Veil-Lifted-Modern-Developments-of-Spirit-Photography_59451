@@ -1,0 +1,45 @@
+_repo: The-Veil-Lifted-Modern-Developments-of-Spirit-Photography_59451
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Taylor, J. Traill
+    gutenberg_agent_id: '50457'
+    url: http://www.gutenberg.org/2009/agents/50457
+  - agent_name: Haweis, H. R. (Hugh Reginald)
+    birthdate: 1839
+    deathdate: 1901
+    gutenberg_agent_id: '9198'
+    url: http://www.gutenberg.org/2009/agents/9198
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Reginald_Haweis
+  - agent_name: Robertson, James Alexander
+    alias: Robertson, J. A. (James Alexander)
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '2297'
+    url: http://www.gutenberg.org/2009/agents/2297
+    wikipedia: https://en.wikipedia.org/wiki/James_Alexander_Robertson
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Glendinning, Andrew
+    gutenberg_agent_id: '50458'
+    url: http://www.gutenberg.org/2009/agents/50458
+description: ''
+gutenberg_issued: '2019-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Veil Lifted
+
+  Modern Developments of Spirit Photography'
+url: http://www.gutenberg.org/ebooks/59451
